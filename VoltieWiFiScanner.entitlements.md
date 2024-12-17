@@ -19,7 +19,7 @@
 
 ## Steps to Add This File to Your Project
 
-1. Save this file as `VoltieWiFiScanner.entitlements`.
+1. Save this file as `VoltieWiFiScanner.entitlements`
 2. Add the file to your Xcode project:
    - Go to **Signing & Capabilities**.
    - Select the **+ Capability** button.
