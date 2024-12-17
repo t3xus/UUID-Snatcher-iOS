@@ -1,5 +1,5 @@
 ## **JuiceNet-Voltie**
-## **VoltiE UUID Snatcher**
+## **The VoltiE UUID Snatcher**
 
 ### **Overview**
 VoltiE UUID Snatcher is an iOS application designed to:
