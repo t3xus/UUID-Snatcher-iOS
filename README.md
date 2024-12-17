@@ -91,7 +91,3 @@ VoltiE UUID Snatcher is an iOS application designed to:
 For support, contact us at:
 - **Email**: support@voltiegroup.com
 - **Website**: [https://support.voltie.us](https://support.voltie.us)
-
----
-
-Let me know if you'd like the project packaged and uploaded as a ZIP! 🚀
