@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <!-- Allows the app to configure Wi-Fi networks -->
+    <key>com.apple.developer.networking.HotspotConfiguration</key>
+    <true/>
+
+    <!-- Allows location access while the app is in use -->
+    <key>com.apple.developer.location-services</key>
+    <true/>
+
+    <!-- Required for background fetch to keep functionality alive -->
+    <key>com.apple.background-mode</key>
+    <array>
+        <string>fetch</string>
+    </array>
+
+    <!-- Allows the app to access the user's email system -->
+    <key>com.apple.security.network.client</key>
+    <true/>
+
+    <!-- Keychain Access for secure credential storage -->
+    <key>keychain-access-groups</key>
+    <array>
+        <string>$(AppIdentifierPrefix)com.voltiegroup.wifiscanner</string>
+    </array>
+</dict>
+</plist>
