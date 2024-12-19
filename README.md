@@ -10,7 +10,6 @@ UUID Snatcher is an iOS application designed to:
 - Scan for Wi-Fi Access Points (APs) with names containing **"Juice"**.
 - Allow users to select and connect to the desired AP.
 - Fetch a UUID by accessing `http://10.10.10.1/command/get+system.uuid`.
-- Email the UUID to `support@voltiegroup.com`.
 - Persist previously processed APs to avoid redundant connections.
 
 ---
