@@ -89,8 +89,3 @@ UUID Snatcher is an iOS application designed to:
 5. Previously processed APs will not appear again.
 
 
-
-### **Contact**
-For support, contact us at:
-- **Email**: support@voltiegroup.com
-- **Website**: [https://support.voltie.us](https://support.voltie.us)
